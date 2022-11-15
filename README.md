@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-<img src="https://img.shields.io/badge/Gmail-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/> - **nikita@romanenko.ru**
-<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/> - [@junior_romanenko](https://t.me/junior_romanenko/)
+<img src="https://img.shields.io/badge/Gmail-blue?logo=gmail&logoColor=white" alt="Gmail Badge"/> - **nikita@romanenko.ru**
+
+<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/> - [@junior_romanenko](https://t.me/junior_romanenko/)
 
 
 <!--
