@@ -1,23 +1,18 @@
-### Hi there 👋
-
-
-
-<div id="badges">
-  <a href="https://t.me/junior_romanenko/">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200"/>
     <div id="badges">
       <a href="https://t.me/junior_romanenko/">
         <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
+      <a href="https://vk.com/gamblerkit">
+        <img src="https://img.shields.io/badge/Vk-blue?logo=vkontaktem&logoColor=white" alt="Vk"/>
+      </a>
+      <h1>
+        **gmail**: nikita@romanenko
+      </h1>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=malyushitsky&style=flat-square&color=blue" alt=""/>
     <h1>
-      Приветствую
+      Приветствую !
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
