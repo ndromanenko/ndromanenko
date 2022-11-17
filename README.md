@@ -11,6 +11,9 @@
       <a href="https://vk.com/gamblerkit">
         <img src="https://img.shields.io/badge/Vk-blue?logo=vkontaktem&logoColor=white" alt="Vk"/>
       </a>
+      <a href="mailto:nikita@romanenko.ru">
+        <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=red" alt="Gmail"/>
+      </a>
     </div>
 </div>
 
