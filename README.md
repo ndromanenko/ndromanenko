@@ -5,10 +5,10 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     <div id="badges">
-      <a href="https://t.me/junior_romanenko/">
+      <a href="https://t.me/ndromanenko/">
         <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
-      <a href="https://vk.com/gamblerkit">
+      <a href="https://vk.com/ndromanenko">
         <img src="https://img.shields.io/badge/Vk-blue?logo=vkontaktem&logoColor=white" alt="Vk"/>
       </a>
       <a href="mailto:nikita@romanenko.ru">
