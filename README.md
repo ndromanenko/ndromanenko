@@ -31,4 +31,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" title="Seaborn" alt="seaborn" width="50" height="50"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Matplotlib" alt="matplotlib" width="50" height="50"/>
 <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" title="Optuna" alt="optuna" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="50" height="50" />
